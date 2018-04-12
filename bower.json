@@ -1,0 +1,17 @@
+{
+  "name": "language-translation",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-i18n": "^1.1.2"
+  }
+}
